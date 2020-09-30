@@ -1,0 +1,15 @@
+{
+  "name": "honey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@truffle/hdwallet-provider": "^1.0.43",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.13"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.4.0"
+  }
+}
