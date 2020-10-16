@@ -9,6 +9,8 @@ https://app.myhoney.finance/
 - WarmupTeamLock - https://etherscan.io/address/0x3EdDC2283f1d9247f88a7b7Ad77377eC1F52B4Ec#code
 - PrelaunchLock - https://etherscan.io/address/0xf54b75f5d233f27aaeDa4AcE627A13B4541bc32B#code
 - ProductionLock - https://etherscan.io/address/0xb3FA0421308a7257FEC72ca39E00aF83aD990211#code
+- HoneycombV2 - https://etherscan.io/address/0xa0d395721F34C4F9EDFd0c192C6b676C1E4B8154#code
+- Stage2Lock - https://etherscan.io/address/0x50Ef23fC4CEd2283127D10Fe698cd2F57b08f71E#code
 
 ## More information
 
